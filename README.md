@@ -16,7 +16,7 @@
 - [Project Structure](#project-structure)
 - [Wokwi Simulation](#wokwi-simulation)
 - [Learning Outcomes](#learning-outcomes)
-- [License](#license)
+- [Future Improvements](#Future-Improvements)
 
 ---
 
