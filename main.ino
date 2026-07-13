@@ -4,9 +4,9 @@
    - Works with ThingSpeak
 */
 
-#define BLYNK_TEMPLATE_ID "TMPL3rZVm8nBP"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Multi room smart energy monitor"
-#define BLYNK_AUTH_TOKEN "EHwbJBTULYnJt-oz7I5qyaI9WjbJaFea"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -16,7 +16,7 @@
 char ssid[] = "Wokwi-GUEST";
 char pass[] = "";
 
-String THINGSPEAK_APIKEY = "7MPP8XEABLBLYIS7";
+String THINGSPEAK_APIKEY = "YOUR_THINGSPEAK_API_KEY";
 
 const float V_RMS = 230.0;
 
