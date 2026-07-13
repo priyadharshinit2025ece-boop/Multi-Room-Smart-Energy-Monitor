@@ -1,0 +1,12 @@
+# Arduino temporary files
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build output
+build/
